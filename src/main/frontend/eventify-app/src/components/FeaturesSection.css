@@ -1,0 +1,21 @@
+.features-section {
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+.features-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.feature {
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+    background-color: #444;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+

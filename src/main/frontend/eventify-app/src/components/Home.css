@@ -1,0 +1,12 @@
+.home-section {
+    padding: 20px;  /* Adjust padding as necessary, but keep it reasonable */
+    margin: 0 auto; /* Centers the section and removes any extra margin */
+    height: auto;   /* Lets the section height adjust to the content dynamically */
+    overflow: hidden; /* Ensures no floating elements extend beyond the section */
+}
+
+/* If you use any inner containers or wrappers, adjust their padding and margin similarly */
+.inner-container {
+    padding: 10px;
+    margin: 0;
+}
